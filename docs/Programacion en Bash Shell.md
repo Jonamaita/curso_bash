@@ -1,7 +1,7 @@
 # Indice
 1. [Introducción](#introducción)
 2. [Programación Básica Shell](#Programación-Básica-Shell)
-3. [Scrip Interactivos](#Scripts Interactivos)
+3. [Scrip Interactivos](#Scripts-Interactivos)
 4. [Condicionales](#Condicionales)
 5. [Iteración](#Iteración)
 6. [Archivos](#Archivos)
