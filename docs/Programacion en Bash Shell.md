@@ -1,4 +1,16 @@
-[TOC]
+# Indice
+1. [Introducción](#introducción)
+2. [Programación Básica Shell](#Programación Básica Shell)
+3. [Scrip Interactivos](#Scripts Interactivos)
+4. [Condicionales](#Condicionales)
+5. [Iteración](#Iteración)
+6. [Archivos](#Archivos)
+7. [Empaquetamiento TAR, GZIP y PBZIP 2](#Empaquetamiento TAR, GZIP y PBZIP 2)
+8. [Funciones en bash](#Funciones en bash)
+9. [Extra](#Extra)
+
+
+
 
 # Introducción
 
@@ -2650,3 +2662,4 @@ Algunas de las variables especiales en bash:
 > $!, el PID del último comando ejecutado en segundo plano.
 > $0, el nombre de la shell o del script de shell.
 > ```
+
