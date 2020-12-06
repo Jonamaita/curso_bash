@@ -5,7 +5,7 @@
 4. [Condicionales](#Condicionales)
 5. [Iteración](#Iteración)
 6. [Archivos](#Archivos)
-7. [Empaquetamiento TAR,GZIP y PBZIP2](#Empaquetamiento-TAR,GZIP-y-PBZIP2)
+7. [Empaquetamiento TAR,GZIP y PBZIP2](#Empaquetamiento-TAR\,-GZIP-y-PBZIP2)
 8. [Funciones en bash](#Funciones-en-bash)
 9. [Extra](#Extra)
 
@@ -2084,7 +2084,7 @@ echo "El usuario: ${user} ha ejecutado el script el día ${date} a las ${hour}" 
 
 
 
-# Empaquetamiento TAR,GZIP y PBZIP2
+# Empaquetamiento TAR, GZIP y PBZIP2
 
 El empaquetamiento es un tema interesante para manejar respaldos u otro tipo de archivos para poder reducir el tamaño de uno o varios archivos para luego distribuirlos a través de la red u otra ubicación dentro del equipo.
 
