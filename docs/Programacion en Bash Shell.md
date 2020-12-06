@@ -5,7 +5,7 @@
 4. [Condicionales](#Condicionales)
 5. [Iteración](#Iteración)
 6. [Archivos](#Archivos)
-7. [Empaquetamiento TAR,GZIP y PBZIP2](#Empaquetamiento-TAR\,-GZIP-y-PBZIP2)
+7. [Empaquetamiento TAR,GZIP y PBZIP2](#Empaquetamiento-TAR-GZIP-y-PBZIP2)
 8. [Funciones en bash](#Funciones-en-bash)
 9. [Extra](#Extra)
 
